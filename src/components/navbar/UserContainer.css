@@ -1,0 +1,27 @@
+.user-container{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding: 8px 5px 8px 20px;
+    box-sizing: border-box;
+    border-bottom: 1px solid #6b6b6b;
+    overflow: hidden;
+}
+
+.user-container img{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+.user-container strong{
+    font-size: medium;
+    font-weight: 600;
+}
+.user-container p{
+    overflow: hidden;
+    width: 100%;
+    font-size: medium;
+    font-size: 12px;
+    white-space: nowrap;
+}

@@ -1,0 +1,8 @@
+.LeftSide{
+    width: 35%;
+    color: #fff;
+    background-color: rebeccapurple;
+    height: 100%;
+    box-sizing: border-box;
+    position: relative;
+}

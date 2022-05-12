@@ -1,0 +1,12 @@
+.users-list{
+    list-style-type: none;
+    background-color: rebeccapurple;
+    overflow-y: scroll;
+    overscroll-behavior: contain;
+    height:90%;
+
+}
+.users-list-user-about{
+    padding: 10px 20px;
+    border-bottom: 1px solid #242422;
+}

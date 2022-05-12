@@ -1,0 +1,6 @@
+.ChatLog{
+    height: 80%;
+    overflow-y: scroll;
+    overscroll-behavior: contain;
+    padding: 5px 0 0 10px;
+}

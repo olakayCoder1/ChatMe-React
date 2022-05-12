@@ -1,0 +1,32 @@
+.MessageContainer{
+    display: flex;
+    gap: 10px;
+    padding: 10px;
+    
+}
+.MessageContainer img{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    
+}
+
+.MessageContainer .message{
+    border: 0.5px solid #6b6b6b;
+    padding: 5px 5px 5px 10px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+}
+.MessageContainer .message strong{
+    font-size: medium;
+    font-weight: 600;
+    color: #6b6b6b;
+}
+.MessageContainer .message p{
+    font-size: medium;
+    line-height: 20px;
+    font-weight: 400;
+    color: #6b6b6b;
+}
